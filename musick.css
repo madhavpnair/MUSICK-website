@@ -1,0 +1,41 @@
+html
+{
+    background-image: url("./music.jpg");
+}
+
+h1
+{
+    color: rgba(89, 45, 11, 0.927);
+    font-family: "Playwrite DK Uloopet", cursive;
+    font-size: 100px;
+    text-align: center;
+}
+.button
+{
+   background-color: #d45050;
+   opacity: 0.9;
+   width: 50px;
+   height: 50px;
+   
+}
+
+.nob{
+    text-align: center;
+}
+.b{
+    
+   text-align: center;
+}
+.pressed
+{
+    opacity: 0;
+    box-shadow: 0 3px 4px 0 rgb(32, 215, 99);
+}
+
+button{
+    background-color: rgb(210, 30, 135);
+}
+h2
+{
+    color: rgb(55, 0, 255);
+}
